@@ -1,0 +1,12 @@
+name: stats
+dependencies:
+  - python=3.9.6
+  - requests
+  - pandas
+  - concurrent
+  - typing
+  - geopandas
+  - matplotlib
+  - panel
+  - folium
+  - ast
